@@ -7,7 +7,7 @@ export default function NavBar() {
     <div>
           <Navbar bg="light" expand="lg">
       <Container>
-        <Navbar.Brand href="/">CHeck-Api</Navbar.Brand>
+        <Navbar.Brand href="/">Checkpoint-API</Navbar.Brand>
           <Nav className="me-auto">
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/users">Users</Nav.Link>
